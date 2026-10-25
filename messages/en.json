@@ -1,0 +1,86 @@
+{
+  "Metadata": {
+    "title": "NOUJOUDE — Noujoude",
+    "description": "An independent curated collectibles house. Premium · Global · Exclusive · Timeless."
+  },
+  "Skip": "Skip to main content",
+  "Nav": {
+    "home": "Home",
+    "articles": "Articles",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "Brand": {
+    "name": "NOUJOUDE — نجود",
+    "tagline": "Treasures Tell Stories.",
+    "positioning": "An independent curated collectibles house."
+  },
+  "Home": {
+    "heroCta": "Browse articles",
+    "latest": "Latest articles",
+    "empty": "No articles published yet.",
+    "categoriesTitle": "Categories",
+    "manifesto": "More than a collection. It's a world of beauty, history and meaning.",
+    "quote": "Every piece has a story, not just a past.",
+    "description": "NOUJOUDE — an independent curated collectibles house: stamps, coins, art, antiques and memorabilia. The latest articles and the stories behind every piece."
+  },
+  "Categories": {
+    "stamps": "Stamps",
+    "coins": "Coins",
+    "art": "Art",
+    "antiques": "Antiques",
+    "memorabilia": "Memorabilia"
+  },
+  "Articles": {
+    "title": "Articles",
+    "description": "The NOUJOUDE article archive — readings and stories in collectibles: stamps, coins, art, antiques and memorabilia, filterable by category and tag.",
+    "empty": "No articles published yet.",
+    "emptyHint": "Content will appear here once it is completed and reviewed.",
+    "related": "Related articles",
+    "filtersLabel": "Filter articles",
+    "allCategories": "All categories",
+    "tagsTitle": "Tags",
+    "tagsLabel": "Article tags",
+    "resultsCount": "{count, plural, one {# result} other {# results}}",
+    "emptyFiltered": "No articles match the current filters.",
+    "clearFilters": "Clear filters",
+    "loadMore": "Load more",
+    "paginationLabel": "Articles pagination",
+    "prev": "Previous",
+    "next": "Next"
+  },
+  "About": {
+    "title": "About",
+    "description": "The story, mission and vision of NOUJOUDE — an independent curated collectibles house.",
+    "story": "In the antique markets of France, among boxes of old letters, we learned that every piece has a life that began before us. From our Moroccan roots, we learned that beauty is never rushed. Noujoude began as a personal collection and became an independent house: we decline more than we accept, and we say plainly what we don't know.",
+    "missionTitle": "Mission",
+    "mission": "To preserve exceptional pieces and tell their stories truthfully, and to give timeless beauty a new home across generations and borders.",
+    "visionTitle": "Vision",
+    "vision": "To be the trusted global reference for curated collectibles, where every piece comes with its provenance and its story.",
+    "ownerPending": "About the owning team: content pending."
+  },
+  "Contact": {
+    "title": "Contact",
+    "description": "Get in touch with the NOUJOUDE collectibles house — the official contact channel is being prepared.",
+    "welcome": "We would love to hear from you. You are welcome to share your questions and the pieces in your care; the official contact channel will be announced once approved.",
+    "pending": "The contact channel is being prepared — it will be added once approved."
+  },
+  "Legal": {
+    "privacyTitle": "Privacy Policy",
+    "privacyDescription": "The NOUJOUDE privacy policy — the final text is pending preparation and approval.",
+    "termsTitle": "Terms and Conditions",
+    "termsDescription": "Terms of use for the NOUJOUDE platform — the final text is pending preparation and approval.",
+    "pending": "The legal text is being prepared — it will be published after review and approval."
+  },
+  "NotFound": {
+    "code": "404",
+    "message": "Page not found",
+    "home": "Back to home",
+    "switchLocale": "النسخة العربية"
+  },
+  "Footer": {
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "rights": "© 2026 NOUJOUDE — نجود"
+  }
+}

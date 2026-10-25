@@ -1,0 +1,77 @@
+[
+  {
+    "page": "ar-home",
+    "runs": [
+      87,
+      92,
+      85,
+      90,
+      93
+    ],
+    "performance": 90,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 92,
+    "agentic-browsing": 100
+  },
+  {
+    "page": "en-home",
+    "runs": [
+      93,
+      97,
+      97,
+      96,
+      98
+    ],
+    "performance": 97,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 92,
+    "agentic-browsing": 100
+  },
+  {
+    "page": "ar-articles",
+    "runs": [
+      95,
+      94,
+      93,
+      97,
+      92
+    ],
+    "performance": 94,
+    "accessibility": 98,
+    "best-practices": 100,
+    "seo": 92,
+    "agentic-browsing": 100
+  },
+  {
+    "page": "ar-article",
+    "runs": [
+      92,
+      89,
+      92,
+      95,
+      94
+    ],
+    "performance": 92,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 92,
+    "agentic-browsing": 100
+  },
+  {
+    "page": "en-article",
+    "runs": [
+      97,
+      98,
+      99,
+      96,
+      96
+    ],
+    "performance": 97,
+    "accessibility": 100,
+    "best-practices": 100,
+    "seo": 92,
+    "agentic-browsing": 100
+  }
+]
